@@ -20,16 +20,14 @@
 
 ### About Me
 
-I design data pipelines, containerized architectures, and applied machine learning systems. My work focuses on bridging high-performance computing with **applied AI in healthcare**—specifically developing deep learning and computer vision pipelines for **neuro-oncology diagnostics** and medical imaging analysis.
+I focus on data engineering, applied machine learning systems, and low-level software optimization. My main area of interest is **applied AI in healthcare**, working with deep learning pipelines for **neuro-oncology diagnostics** and medical imaging.
 
-I prioritize system efficiency, algorithmic precision, and reproducible workflows. Whether implementing memory-conscious data structures and runtime optimizations in `C` or orchestrating containerized training pipelines using `Docker` and `Kubernetes`, I build systems designed for reliability and deterministic performance.
-
-Currently focusing on reproducible MLOps workflows, distributed data processing, and clinical decision support systems.
+I build reliable and reproducible systems—ranging from memory-conscious algorithms and runtime performance optimization in `C`, to data workflows, statistical modeling, and model training using `Python`, `R`, and containerized environments.
 
 ---
 
 ### Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,ts,bash,docker,kubernetes,linux,postgres,sqlite,mongodb,git,vscode&perline=6" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=python,c,r,bash,docker,kubernetes,linux,postgres,sqlite,mongodb,git,vscode&perline=6" alt="Tech Stack" />
 </p>
